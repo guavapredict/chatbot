@@ -23,7 +23,7 @@
 
 .human-bubble {
     background: linear-gradient(135deg, rgb(0, 178, 255) 0%, rgb(0, 106, 255) 100%); 
-    color: white;
+    color: black;
     border-radius: 20px;
 }
 
