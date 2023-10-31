@@ -95,7 +95,6 @@ with prompt_placeholder:
 
 credit_card_placeholder.caption(f"""
 Used {st.session_state.token_count} tokens \n
-Debug Langchain conversation: 
 {st.session_state.conversation.memory.buffer}
 """)
 
