@@ -83,7 +83,7 @@ with prompt_placeholder:
     cols = st.columns((6, 1))
     cols[0].text_input(
         "Chat",
-        value="ආයුබෝවන්",
+        value="வணக்கம்",
         label_visibility="collapsed",
         key="human_prompt",
     )
